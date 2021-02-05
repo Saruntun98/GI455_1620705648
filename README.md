@@ -6,3 +6,5 @@ Work week 2 Chat 05:00 PM
 Change file default name to "Search Engine" 12:07 AM
 - 05/02/21
 Wait update!!
+11:50 PM 
+**ผมไม่เก่งโค้ดความรู้ไม่แน่น เรียนรู้ช้าครับ แต่จะพยายามตามให้ทัน เพราะอยากทำระบบแบบนี้ได้ด้วยตัวเองครับ
