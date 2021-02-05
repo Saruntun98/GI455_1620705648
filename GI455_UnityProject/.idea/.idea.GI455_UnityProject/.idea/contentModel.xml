@@ -6,8 +6,31 @@
     <e p="D:\Work\GI455\GI455_1620705648\GI455_UnityProject" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Scripts" t="Include">
-          <e p="ScriptSearch.cs" t="Include" />
+        <e p="ChatMessenger" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="ButtonHideShow.cs" t="Include" />
+            <e p="Chat.cs" t="Include" />
+            <e p="TEST.cs" t="Include" />
+            <e p="UI_InputWindow.cs" t="Include" />
+            <e p="WebSocketConnection.cs" t="Include" />
+          </e>
+        </e>
+        <e p="SearchEngine" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="ScriptSearch.cs" t="Include" />
+          </e>
+        </e>
+        <e p="SimplePixelUI" t="Include">
+          <e p="fonts" t="Include">
+            <e p="Font1" t="Include">
+              <e p="license.txt" t="Include" />
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="Font2" t="Include">
+              <e p="license.txt" t="Include" />
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
         </e>
       </e>
       <e p="GI455_UnityProject.sln" t="IncludeFlat" />

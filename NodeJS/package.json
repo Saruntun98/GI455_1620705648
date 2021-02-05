@@ -1,14 +1,15 @@
 {
-  "name": "saruntunchatserver",
+  "name": "saruntunserver",
   "version": "1.0.0",
-  "description": "Chat",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "Saruntun",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "ws": "^7.4.2"
+    "ws": "^7.4.3"
   }
 }

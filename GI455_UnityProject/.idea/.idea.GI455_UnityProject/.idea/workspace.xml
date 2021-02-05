@@ -20,7 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b9b97b6-0603-4de5-a3d4-3757fe67135d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SearchEngine/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SearchEngine/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/node_modules/ws/lib/permessage-deflate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/node_modules/ws/lib/permessage-deflate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/node_modules/ws/lib/websocket-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/node_modules/ws/lib/websocket-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/node_modules/ws/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/node_modules/ws/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +46,22 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/526469D5-A48C-43EE-BD9A-F19F8745AFA1/af/437eade7/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptSearch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ChatMessenger/Scripts/Chat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ChatMessenger/Scripts/TEST.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Script_Search.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ScriptSearch.cs" />
+        <option value="$PROJECT_DIR$/../NodeJS/server.js" />
+        <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/UI_InputWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/TEST.cs" />
+        <option value="$PROJECT_DIR$/Assets/SearchEngine/Scripts/ScriptSearch.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/UI_TEST.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/ButtonHideShow.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/WebSocketConnection.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/Chat.cs" />
       </list>
     </option>
   </component>
@@ -49,6 +72,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35021096" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29957807" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,6 +86,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Build Test\GI455_UnityProject.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\Work\GI455\GI455_1620705648\GI455_UnityProject\Build Test" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -94,6 +127,18 @@
       <workItem from="1611734552655" duration="4940000" />
       <workItem from="1611769994435" duration="12379000" />
       <workItem from="1611789492565" duration="3389000" />
+      <workItem from="1612326178673" duration="1528000" />
+      <workItem from="1612327765110" duration="1060000" />
+      <workItem from="1612329627744" duration="931000" />
+      <workItem from="1612355451177" duration="1292000" />
+      <workItem from="1612356783673" duration="1217000" />
+      <workItem from="1612358636655" duration="4720000" />
+      <workItem from="1612364008639" duration="447000" />
+      <workItem from="1612364860151" duration="2341000" />
+      <workItem from="1612383037569" duration="8942000" />
+      <workItem from="1612434513223" duration="13664000" />
+      <workItem from="1612458404071" duration="13215000" />
+      <workItem from="1612502356487" duration="17255000" />
     </task>
     <servers />
   </component>
@@ -118,13 +163,85 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="979" height="282" key="GridCell.Tab.0.bottom" timestamp="1612327717928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717928" />
+    <state width="979" height="282" key="GridCell.Tab.0.center" timestamp="1612327717928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717928" />
+    <state width="979" height="282" key="GridCell.Tab.0.left" timestamp="1612327717928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717928" />
+    <state width="979" height="282" key="GridCell.Tab.0.right" timestamp="1612327717928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717928" />
+    <state width="979" height="282" key="GridCell.Tab.1.bottom" timestamp="1612327717929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717929" />
+    <state width="979" height="282" key="GridCell.Tab.1.center" timestamp="1612327717928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717928" />
+    <state width="979" height="282" key="GridCell.Tab.1.left" timestamp="1612327717928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717928" />
+    <state width="979" height="282" key="GridCell.Tab.1.right" timestamp="1612327717929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717929" />
+    <state width="979" height="282" key="GridCell.Tab.2.bottom" timestamp="1612327717929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717929" />
+    <state width="979" height="282" key="GridCell.Tab.2.center" timestamp="1612327717929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717929" />
+    <state width="979" height="282" key="GridCell.Tab.2.left" timestamp="1612327717929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717929" />
+    <state width="979" height="282" key="GridCell.Tab.2.right" timestamp="1612327717929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717929" />
+    <state width="979" height="282" key="GridCell.Tab.3.bottom" timestamp="1612327717929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717929" />
+    <state width="979" height="282" key="GridCell.Tab.3.center" timestamp="1612327717929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717929" />
+    <state width="979" height="282" key="GridCell.Tab.3.left" timestamp="1612327717929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717929" />
+    <state width="979" height="282" key="GridCell.Tab.3.right" timestamp="1612327717929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="979" height="282" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612327717929" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1612515106807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1612515106807" />
+    <state x="1149" y="380" key="RiderGenerateDialog" timestamp="1612435358549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1149" y="380" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612435358549" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1611792281524">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611792281524" />
-    <state x="0" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1611790088430">
+    <state x="247" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1612502713802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611790088430" />
+    <state x="247" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612502713802" />
   </component>
 </project>
