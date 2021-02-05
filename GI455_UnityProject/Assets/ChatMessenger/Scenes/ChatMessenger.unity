@@ -1392,9 +1392,10 @@ MonoBehaviour:
     type: 3}
   showUsername: {fileID: 1301613787}
   sendButton: {fileID: 1166316266}
-  connectButton: {fileID: 1201034435}
+  textSead: {fileID: 0}
+  textRead: {fileID: 0}
+  textMessage: 
   usernameText: 
-  test: 0
   inputUser: {fileID: 5217236}
   inputIp: {fileID: 355056427}
   inputPort: {fileID: 5217236}
@@ -3668,8 +3669,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -117.1, y: -33.399994}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -151.7, y: -33.399994}
+  m_SizeDelta: {x: 130.85236, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1658093989
 MonoBehaviour:

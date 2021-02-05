@@ -19,14 +19,15 @@ namespace Messenger
         public GameObject chatPanel, textObject;
         public GameObject showUsername;
         public Button sendButton;
-        public Button connectButton;
+        public Text textSead;
+        public Text textRead;
+        public string textMessage;
         
         public string usernameText;
         
-        private WebSocket websocket;
-
         
-        public TextAlignment test;
+        private WebSocket websocket;
+        
         
         [SerializeField]
         private InputField  inputUser;
@@ -47,6 +48,7 @@ namespace Messenger
      
         void Update()
         {
+
             showUsername.GetComponent<Text>().text = $"[<color=green>{inputUser.text}</color>]";
             if (textChat.text != "")
                 
@@ -71,6 +73,10 @@ namespace Messenger
                             SeadMessageToChat("<color=red>Please input letters!!</color>");
                             Debug.Log("Space");
                         }
+            }
+            if (textMessage != null)
+            {
+                updatMessage();
             }
         }
         
@@ -101,7 +107,31 @@ namespace Messenger
             GameObject newText = Instantiate(textObject, chatPanel.transform);
             newMessage.textObject = newText.GetComponent<Text>();
             newMessage.textObject.text = newMessage.text;
+            //newMessage.textObject.alignment = TextAnchor.MiddleRight;
+            //textObject.a = TextAnchor.MiddleRight;
             messageList.Add(newMessage);
+            
+        }
+        
+        void updatMessage()
+        {
+            string[] temp = textMessage.Split(':');
+            
+            if (temp[0] == usernameText)
+            {
+                foreach (var i in textMessage)
+                {
+                    textSead.text += i ;
+                }
+            }
+            else
+            {
+                foreach (var i in textMessage)
+                {
+                    textRead.text += i ;
+                }
+            }
+            textMessage = null;
         }
         
         private void OnDestroy()
@@ -113,8 +143,10 @@ namespace Messenger
         }
         public void OnMessage(object semder, MessageEventArgs messageEventArgs)
         {
-            Debug.Log("Receive msg : " + messageEventArgs.Data);
-            SeadMessageToChat($"<color=#C1F55B>{messageEventArgs.Data}</color>");
+            Debug.Log("Receive msg : " + textMessage);
+            textMessage = messageEventArgs.Data;
+            SeadMessageToChat($"<color=#C1F55B>{textMessage}</color>");
+            
             //SeadMessageToChat(messageEventArgs.Data);
         }
     }

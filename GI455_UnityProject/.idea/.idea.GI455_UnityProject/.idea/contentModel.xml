@@ -10,9 +10,6 @@
           <e p="Scripts" t="Include">
             <e p="ButtonHideShow.cs" t="Include" />
             <e p="Chat.cs" t="Include" />
-            <e p="TEST.cs" t="Include" />
-            <e p="UI_InputWindow.cs" t="Include" />
-            <e p="WebSocketConnection.cs" t="Include" />
           </e>
         </e>
         <e p="SearchEngine" t="Include">
