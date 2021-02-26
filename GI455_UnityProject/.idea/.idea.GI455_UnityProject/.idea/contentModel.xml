@@ -9,7 +9,16 @@
         <e p="ChatMessenger" t="Include">
           <e p="Scripts" t="Include">
             <e p="ButtonHideShow.cs" t="Include" />
+            <e p="Chat-backup.cs" t="Include" />
             <e p="Chat.cs" t="Include" />
+            <e p="ChatNew.cs" t="Include" />
+            <e p="WebSocketConnection.cs" t="Include" />
+          </e>
+        </e>
+        <e p="NewChat" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="WebSocketConnection - backup.cs" t="Include" />
+            <e p="WebSocketConnection.cs" t="Include" />
           </e>
         </e>
         <e p="SearchEngine" t="Include">

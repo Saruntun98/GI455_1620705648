@@ -20,18 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b9b97b6-0603-4de5-a3d4-3757fe67135d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Plugins/websocket-sharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Plugins/websocket-sharp.dll.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Scenes/ChatMessenger.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ChatMessenger/Scenes/ChatMessenger.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Scenes/TEST.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Scenes/TEST.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/ButtonHideShow.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/Chat.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/Chat.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/TEST.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/TEST.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/UI_InputWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/UI_InputWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/WebSocketConnection.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/WebSocketConnection.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/Managed/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/Managed/Unity.Timeline.dll" afterDir="false" />
@@ -39,6 +35,12 @@
       <change beforePath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/globalgamemanagers" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/globalgamemanagers.assets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/level0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Build Test/GI455_UnityProject_Data/sharedassets0.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/ChatMessenger/Scripts/ButtonHideShow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ChatMessenger/Scripts/WebSocketConnection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/526469D5-A48C-43EE-BD9A-F19F8745AFA1/af/437eade7/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Unity/2019.4.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ChatMessenger/Scripts/Chat.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -64,8 +68,14 @@
         <option value="$PROJECT_DIR$/Assets/SearchEngine/Scripts/ScriptSearch.cs" />
         <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/UI_TEST.cs" />
         <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/ButtonHideShow.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/ChatNew.cs" />
         <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/WebSocketConnection.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/UIManager.cs" />
         <option value="$PROJECT_DIR$/Assets/ChatMessenger/Scripts/Chat.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewChat/Scripts/WebSocketConnection2.cs" />
+        <option value="$PROJECT_DIR$/Assets/ProgramChatWithJson/Scripts/WebSocketConnection.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewChat/Scripts/UIChat.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewChat/Scripts/WebSocketConnection.cs" />
       </list>
     </option>
   </component>
@@ -87,6 +97,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -145,6 +156,33 @@
       <workItem from="1612502356487" duration="17255000" />
       <workItem from="1612537588220" duration="4069000" />
       <workItem from="1612541892226" duration="328000" />
+      <workItem from="1612590744344" duration="2735000" />
+      <workItem from="1612595266911" duration="1918000" />
+      <workItem from="1613198000341" duration="3776000" />
+      <workItem from="1613214998868" duration="16000" />
+      <workItem from="1613634675207" duration="10056000" />
+      <workItem from="1613649072982" duration="286000" />
+      <workItem from="1613664728805" duration="4034000" />
+      <workItem from="1613670063332" duration="2574000" />
+      <workItem from="1613724449598" duration="1486000" />
+      <workItem from="1613726479865" duration="676000" />
+      <workItem from="1613728237392" duration="23000" />
+      <workItem from="1613729061680" duration="22000" />
+      <workItem from="1613729314361" duration="1125000" />
+      <workItem from="1613730608787" duration="5008000" />
+      <workItem from="1614020408811" duration="988000" />
+      <workItem from="1614061671811" duration="294000" />
+      <workItem from="1614077025166" duration="2541000" />
+      <workItem from="1614098082674" duration="8674000" />
+      <workItem from="1614143887089" duration="1348000" />
+      <workItem from="1614146326794" duration="824000" />
+      <workItem from="1614152560106" duration="4799000" />
+      <workItem from="1614235689008" duration="2522000" />
+      <workItem from="1614240295423" duration="6168000" />
+      <workItem from="1614249431732" duration="5379000" />
+      <workItem from="1614259796394" duration="17557000" />
+      <workItem from="1614316100571" duration="4753000" />
+      <workItem from="1614349997258" duration="1055000" />
     </task>
     <servers />
   </component>
@@ -241,10 +279,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1149" y="380" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612435358549" />
-    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1612538903968">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1614237242487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612538903968" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614237242487" />
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1613200613886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613200613886" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1611792281524">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
